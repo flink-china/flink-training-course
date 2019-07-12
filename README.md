@@ -99,6 +99,11 @@
     讲师：贺小令（Apache Flink Contributor，阿里巴巴技术专家)
     直播：8月1日20:00-21:00 （UTC+8）
     备注：视频、PPT待直播后更新
+    
+### 2.15 Apache Flink Python API 现状及规划
+    讲师：孙金城（Apache Flink PMC，阿里巴巴高级技术专家)
+    直播：8月6日20:00-21:00 （UTC+8）
+    备注：视频、PPT待直播后更新
 
 
 # S1 基础篇 （已完结）
