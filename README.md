@@ -78,9 +78,11 @@
      讲师：章剑锋（Apache Zeppelin PMC，阿里巴巴高级技术专家）
     
 ### 2.11 Flink State 最佳实践 
+[PPT](https://files.alicdn.com/tpsservice/83484dc743503fc27e50f5bc9d545a2c.pdf)
+
+[视频回放](https://www.bilibili.com/video/av58787827/)   
+
     讲师：唐云（Apache Flink Contributor，阿里巴巴高级开发工程师)
-    直播：7月11日20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新
  
 ### 2.12 Flink 状态管理及容错机制
     讲师：戴资力（Apache Flink PMC，Ververica Software Engineer)
