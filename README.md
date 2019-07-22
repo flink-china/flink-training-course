@@ -84,28 +84,23 @@
 [视频回放](https://www.bilibili.com/video/av58787827/)   
 
     讲师：唐云（Apache Flink Contributor，阿里巴巴高级开发工程师)
- 
-### 2.12 Flink 状态管理及容错机制
-    讲师：戴资力（Apache Flink PMC，Ververica Software Engineer)
-    直播：7月23日20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新
     
 ### Intel特邀课程： Take advantage of Intel Optane DCPM in Flink workload
     讲师：马艳 （Intel Software Engineer）
     直播：7月24日20:00-21:00 （UTC+8）
     备注：视频、PPT待直播后更新
     
-### 2.13 TensorFlow On Flink
+### 2.12 TensorFlow On Flink
     讲师：陈戊超（阿里巴巴技术专家)
     直播：7月25日20:00-21:00 （UTC+8）
     备注：视频、PPT待直播后更新
     
-### 2.14 深度探索 Flink SQL
+### 2.13 深度探索 Flink SQL
     讲师：贺小令（Apache Flink Contributor，阿里巴巴技术专家)
     直播：8月1日20:00-21:00 （UTC+8）
     备注：视频、PPT待直播后更新
     
-### 2.15 Apache Flink Python API 现状及规划
+### 2.14 Apache Flink Python API 现状及规划
     讲师：孙金城（Apache Flink PMC，阿里巴巴高级技术专家)
     直播：8月6日20:00-21:00 （UTC+8）
     备注：视频、PPT待直播后更新
