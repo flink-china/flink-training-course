@@ -1,3 +1,10 @@
+### 天池大赛报名链接
+
+🔗
+https://tianchi.aliyun.com/competition/entrance/231743/introduction
+
+
+
 课程简介：本系列课程由 Apache Flink Community China 官方出品。旨在为具备一定大数据基础、对Apache Flink感兴趣的同学提供系统性的入门教程，课程路径为“基础篇>>进阶篇>>运维篇>>实战篇>>源码篇”。
 
 ### 「彩蛋」 Apache Flink 中文邮件列表使用方式
