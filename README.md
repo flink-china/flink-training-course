@@ -101,7 +101,7 @@ https://tianchi.aliyun.com/competition/entrance/231743/introduction
 
 [PPT](https://files.alicdn.com/tpsservice/83484dc743503fc27e50f5bc9d545a2c.pdf)
 
-[视频回放](https://www.bilibili.com/video/av58787827/) 
+[视频回放](https://www.bilibili.com/video/av60808586/) 
 
     讲师：陈戊超（阿里巴巴技术专家)
     
