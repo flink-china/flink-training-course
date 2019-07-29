@@ -97,7 +97,7 @@ https://tianchi.aliyun.com/competition/entrance/231743/introduction
 [PPT]( https://files.alicdn.com/tpsservice/548df3505a8ef2cffe20fcfebb2d0766.pdf)
 
 [视频回放](https://www.bilibili.com/video/av61285991) 
- 
+
     讲师：马艳 （Intel Software Engineer）
    
     
