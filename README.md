@@ -99,7 +99,7 @@ https://tianchi.aliyun.com/competition/entrance/231743/introduction
     
 ### 2.12 TensorFlow On Flink
 
-[PPT](https://files.alicdn.com/tpsservice/83484dc743503fc27e50f5bc9d545a2c.pdf)
+[PPT]( https://files.alicdn.com/tpsservice/3666aad586f7a7cb6a3b1c993a25f224.pptx)
 
 [视频回放](https://www.bilibili.com/video/av60808586/) 
 
