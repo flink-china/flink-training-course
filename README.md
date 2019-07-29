@@ -93,14 +93,17 @@ https://tianchi.aliyun.com/competition/entrance/231743/introduction
     讲师：唐云（Apache Flink Contributor，阿里巴巴高级开发工程师)
     
 ### Intel特邀课程： Take advantage of Intel Optane DCPM in Flink workload
-[PPT]( https://files.alicdn.com/tpsservice/3956d3e126a690bc7b65cddc93fc3083.pptx)
 
+[PPT]( https://files.alicdn.com/tpsservice/c7c36ce5e08c52091669b0bf2f11996e.pptx)
+
+[视频回放](https://www.bilibili.com/video/av61285991) 
+ 
     讲师：马艳 （Intel Software Engineer）
    
     
 ### 2.12 TensorFlow On Flink
 
-[PPT]( https://files.alicdn.com/tpsservice/3666aad586f7a7cb6a3b1c993a25f224.pptx)
+[PPT]( https://files.alicdn.com/tpsservice/20d635027e0fb9ab079d969fed923212.pptx)
 
 [视频回放](https://www.bilibili.com/video/av60808586/) 
 
