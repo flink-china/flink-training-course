@@ -94,7 +94,7 @@ https://tianchi.aliyun.com/competition/entrance/231743/introduction
     
 ### Intel特邀课程： Take advantage of Intel Optane DCPM in Flink workload
 
-[PPT]( https://files.alicdn.com/tpsservice/c7c36ce5e08c52091669b0bf2f11996e.pptx)
+[PPT]( https://files.alicdn.com/tpsservice/548df3505a8ef2cffe20fcfebb2d0766.pdf)
 
 [视频回放](https://www.bilibili.com/video/av61285991) 
  
@@ -103,7 +103,7 @@ https://tianchi.aliyun.com/competition/entrance/231743/introduction
     
 ### 2.12 TensorFlow On Flink
 
-[PPT]( https://files.alicdn.com/tpsservice/20d635027e0fb9ab079d969fed923212.pptx)
+[PPT]( https://files.alicdn.com/tpsservice/76b3252ba40aea0a0bfc4b6591f833a4.pdf)
 
 [视频回放](https://www.bilibili.com/video/av60808586/) 
 
