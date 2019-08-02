@@ -110,14 +110,21 @@ https://tianchi.aliyun.com/competition/entrance/231743/introduction
     讲师：陈戊超（阿里巴巴技术专家)
     
 ### Intel特邀课程：Anlytics-Zoo 构建统一的大数据分析+AI流水线
+
+[PPT]( https://files.alicdn.com/tpsservice/8d4949d7f6a8c685fc3bcf4f23bc76c1.pdf)
+
+[视频回放](https://www.bilibili.com/video/av61840459) 
+
     讲师：史栋杰（Intel 资深软件架构师）
-    直播：8月1日19:00-20:00 （UTC+8）
-    备注：视频、PPT待直播后更新
     
 ### 2.13 深度探索 Flink SQL
+
+[PPT]( https://files.alicdn.com/tpsservice/6f069ca9f2930400a577cc90323de326.pdf)
+
+[视频回放](https://www.bilibili.com/video/av61840225)  
+
     讲师：贺小令（Apache Flink Contributor，阿里巴巴技术专家)
-    直播：8月1日20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新
+
     
 ### 2.14 Apache Flink Python API 现状及规划
     讲师：孙金城（Apache Flink PMC，阿里巴巴高级技术专家)
