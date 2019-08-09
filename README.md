@@ -127,9 +127,13 @@ https://tianchi.aliyun.com/competition/entrance/231743/introduction
 
     
 ### 2.14 Apache Flink Python API 现状及规划
+
+[PPT]( https://files.alicdn.com/tpsservice/13ebff337e9eef18920429cd18dd1deb.pdf)
+
+[视频回放]( https://www.bilibili.com/video/av62740496/)
+
     讲师：孙金城（Apache Flink PMC，阿里巴巴高级技术专家)
-    直播：8月6日20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新
+    
 
 
 # S1 基础篇 （已完结）
