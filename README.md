@@ -10,7 +10,19 @@ https://tianchi.aliyun.com/competition/entrance/231743/introduction
 ### 「彩蛋」 Apache Flink 中文邮件列表使用方式
 [视频](https://www.bilibili.com/video/av57076677/) 
 
-# S2 进阶篇（进行中）
+
+# S3 实战&运维篇（进行中）
+备注：S1 S2 基础篇+进阶篇本页下滑可见
+
+### 3.1 Flink 反压/延时监控和调参控制
+[PPT](https://files.alicdn.com/tpsservice/39edc75090edabcaa4fb9639604a37c5.pdf)
+
+[视频回放](https://www.bilibili.com/video/av63039981) 
+
+    讲师：Rong Rong（Apache Flink Committer，Software Engineer at Uber） 
+    
+
+# S2 进阶篇（已完结）
 备注：S1基础篇本页下滑可见
 
 ### 2.1 Flink Runtime 核心机制剖析 
@@ -19,6 +31,7 @@ https://tianchi.aliyun.com/competition/entrance/231743/introduction
 [视频回放](https://www.bilibili.com/video/av52394455/) 
 
     讲师：高赟（Apache Flink Contributor，阿里巴巴高级开发工程师)
+    
 ### 2.2 Flink Time 深度解析
 [PPT](https://files.alicdn.com/tpsservice/a555d1924a5af65e30abbf7ed426129a.pdf)
 
