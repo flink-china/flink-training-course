@@ -25,7 +25,13 @@ https://dwz.cn/ioH4FiMZ
 
     讲师：Rong Rong（Apache Flink Committer，Software Engineer at Uber） 
     
+### 3.2 Metric 指标、监控、报警
+[PPT](https://files.alicdn.com/tpsservice/2d74381cdaf992b276becd1659cc637c.pdf)
 
+[视频回放](https://www.bilibili.com/video/av63884396/) 
+
+    讲师：孙梦瑶（美团点评研发工程师）
+    
 # S2 进阶篇（已完结）
 备注：S1基础篇本页下滑可见
 
