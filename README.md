@@ -40,9 +40,11 @@ https://dwz.cn/ioH4FiMZ
    
     
 ### 3.4 Flink CEP 实战
-    讲师：刘博（哈啰出行大数据实时平台资深开发）
-    直播：8月29日20:00-21:00 （UTC+8） 
-    备注：视频、PPT待直播后更新
+[PPT](https://files.alicdn.com/tpsservice/94d409d9679d1b46034f7d00161d99a7.pdf)
+
+[视频回放]( https://www.bilibili.com/video/av66073054/) 
+     
+     讲师：刘博（哈啰出行大数据实时平台资深开发）
     
 ### 3.5 Flink 实时数仓的应用
     讲师：黄伟伦（美团实时数仓技术专家）
