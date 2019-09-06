@@ -47,9 +47,12 @@ https://dwz.cn/ioH4FiMZ
      讲师：刘博（哈啰出行大数据实时平台资深开发）
     
 ### 3.5 Flink 实时数仓的应用
-    讲师：黄伟伦（美团实时数仓技术专家）
-    直播：9月05日20:00-21:00 （UTC+8） 
-    备注：视频、PPT待直播后更新
+[PPT](https://files.alicdn.com/tpsservice/d2b9e181918024538422e8768dde6983.pdf)
+
+[视频回放]( https://www.bilibili.com/video/av66782142)  
+      
+      讲师：黄伟伦（美团实时数仓技术专家）
+    
     
     
 # S2 进阶篇（已完结）
