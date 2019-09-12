@@ -53,7 +53,7 @@ https://dwz.cn/ioH4FiMZ
       
       讲师：黄伟伦（美团实时数仓技术专家）
       
-### 3.6 State Processor API 介紹与演示
+### 3.6 State Processor API 介绍与演示
 
       讲师：戴资力（Apache Flink PMC）
       直播：9月12日20:00-21:00(UTC+8)
