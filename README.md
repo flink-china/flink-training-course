@@ -55,10 +55,11 @@ https://dwz.cn/ioH4FiMZ
       
 ### 3.6 State Processor API 介绍与演示
 
+[视频回放]( https://www.bilibili.com/video/av67942201/)  
+      
       讲师：戴资力（Apache Flink PMC）
-      直播：9月12日20:00-21:00(UTC+8)
-      备注：视频、PPT待直播后更新
-  
+   
+     
 ### 3.7 Flink 常见问题诊断  
     
     讲师：杨阳（阿里巴巴 高级运维工程师）
