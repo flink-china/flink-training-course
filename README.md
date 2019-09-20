@@ -61,10 +61,12 @@ https://dwz.cn/ioH4FiMZ
    
      
 ### 3.7 Flink 常见问题诊断  
-    
+
+[PPT](https://files.alicdn.com/tpsservice/4894880a287514b4225c3892c307b9f6.pdf)
+
+[视频回放]( https://www.bilibili.com/video/av68338860/)  
+       
     讲师：杨阳（阿里巴巴 高级运维工程师）
-    直播：9月19日20:00-21:00(UTC+8)
-    备注：视频、PPT待直播后更新
     
 ### 3.8 大规模场景的高阶运维 
 
