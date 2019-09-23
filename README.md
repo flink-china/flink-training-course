@@ -54,6 +54,7 @@ https://dwz.cn/ioH4FiMZ
       讲师：黄伟伦（美团实时数仓技术专家）
       
 ### 3.6 State Processor API 介绍与演示
+[PPT](https://files.alicdn.com/tpsservice/68a51e5b05797748f470845ceeb08bc4.pdf)
 
 [视频回放]( https://www.bilibili.com/video/av67942201/)  
       
@@ -281,4 +282,3 @@ https://dwz.cn/ioH4FiMZ
 [视频回放点我](https://www.bilibili.com/video/av50871853/)     
 
 讲师：伍翀（Apache Flink Committer)
-
