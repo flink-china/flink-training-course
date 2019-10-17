@@ -76,7 +76,7 @@ https://dwz.cn/ioH4FiMZ
        
     讲师：王华（阿里巴巴 运维专家）
     
- ### 3.9 Flink生产配置最佳实践 
+ ### 3.9 Flink 作业问题分析和调优实践 
  [PPT](https://files.alicdn.com/tpsservice/b085f11c9a1d8566873aa9141ac67d79.pdf)
 
 
@@ -86,7 +86,7 @@ https://dwz.cn/ioH4FiMZ
     备注：视频、PPT待直播后更新
     
     
- ### 3.10 Flink 作业问题分析和调优实践   
+ ### 3.10 Flink 生产配置最佳实践  
 
     讲师：席建刚 趣头条实时平台负责人
     直播：10月17日20:00-21:00(UTC+8)
