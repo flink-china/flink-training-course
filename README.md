@@ -70,12 +70,16 @@ https://dwz.cn/ioH4FiMZ
     讲师：杨阳（阿里巴巴 高级运维工程师）
     
 ### 3.8 大规模场景的高阶运维 
+[PPT](https://files.alicdn.com/tpsservice/5533cec7e1e21656ea6efce994980ddf.pdf)
 
 [视频回放](https://www.bilibili.com/video/av70687244/ )  
        
     讲师：王华（阿里巴巴 运维专家）
     
  ### 3.9 Flink生产配置最佳实践 
+ [PPT](https://files.alicdn.com/tpsservice/b085f11c9a1d8566873aa9141ac67d79.pdf)
+
+
 
     讲师：李康（虎牙 实时平台负责人）
     直播：10月10日20:00-21:00(UTC+8)
