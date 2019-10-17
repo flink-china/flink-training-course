@@ -100,12 +100,16 @@ https://dwz.cn/ioH4FiMZ
 
 [视频回放](https://www.bilibili.com/video/av52394455/) 
 
+[第一课文章](https://mp.weixin.qq.com/s/TBzzGTNFTzVLjFQdzz-LuQ)
+
     讲师：高赟（Apache Flink Contributor，阿里巴巴高级开发工程师)
     
 ### 2.2 Flink Time 深度解析
 [PPT](https://files.alicdn.com/tpsservice/a555d1924a5af65e30abbf7ed426129a.pdf)
 
 [视频回放](https://www.bilibili.com/video/av53193640/) 
+
+[第二课文章](https://mp.weixin.qq.com/s/2VMsTvCW9eshEnB-Ak_cIw)
 
     讲师：崔星灿（Apache Flink Committer，加拿大约克大学博士后)
     
@@ -115,12 +119,16 @@ https://dwz.cn/ioH4FiMZ
 
 [视频回放](https://www.bilibili.com/video/av54074405/) 
 
+[第三课文章](https://mp.weixin.qq.com/s/QCVWSYZDeQQJjjuQtINZ4A)
+
     讲师：唐云（Apache Flink Contributor，阿里巴巴高级开发工程师)
    
 ### 2.4 Flink on Yarn/K8S原理剖析及实践
 [PPT]( https://files.alicdn.com/tpsservice/f8b9901b35b9bb8b8ebbcd3302397422.pdf)
 
 [视频回放](https://www.bilibili.com/video/av53894887/) 
+
+[第四课文章](https://mp.weixin.qq.com/s/sVdI61Un8C8ycArdrwgmTg)
 
     讲师：周凯波（Apache Flink Contributor，阿里巴巴技术专家）
 
@@ -244,12 +252,17 @@ https://dwz.cn/ioH4FiMZ
 [PPT点我](https://files.alicdn.com/tpsservice/4824447b829149c86bedd19424d05915.pdf)
 
 [视频回放点我](https://www.bilibili.com/video/av46986124/)
+
+[第三课文章](https://mp.weixin.qq.com/s/noD2Jv6m-somEMtjWTJh3w)
            
 讲师：沙晟阳（阿里巴巴高级开发工程师)
+
 ### 1.4 DataStream API编程
 [PPT点我](https://files.alicdn.com/tpsservice/38bf5c75c7491323b4b99101a2fab65c.pdf) 
 
 [视频回放点我](https://www.bilibili.com/video/av47970985/)
+
+[第四课文章](https://mp.weixin.qq.com/s/nLHjYUCx2mOGBSFS4_uu_g)
 
 讲师：崔星灿（Apache Flink Committer)
 
@@ -257,32 +270,42 @@ https://dwz.cn/ioH4FiMZ
 [PPT点我](https://files.alicdn.com/tpsservice/a8d224d6a3b8b82d03aa84e370c008cc.pdf)
 
 [视频回放点我](https://www.bilibili.com/video/av47600600/)
+
+[第五课文章](https://mp.weixin.qq.com/s/KfuAZv2G0682NNzHv0iFfQ)
           
 讲师：周凯波（阿里巴巴技术专家）
        
 ### 1.6 Window & Time
 [PPT点我](https://files.alicdn.com/tpsservice/5a77d1eaf0fda97b512762103c4cbd91.pdf)
 
-[视频回放点我](https://www.bilibili.com/video/av49401210/)          
+[视频回放点我](https://www.bilibili.com/video/av49401210/)  
+
+[第六课文章](https://mp.weixin.qq.com/s/43N3W9rQ2HEHIyBM1jh4Lw)
           
 讲师：邱从贤（阿里巴巴高级开发工程师）
           
 ### 1.7 状态管理与容错机制 
 [PPT点我](https://files.alicdn.com/tpsservice/1b9f5f0bda10883dce78496e6a5d648a.pdf)
 
-[视频回放点我](https://www.bilibili.com/video/av49736102/)          
+[视频回放点我](https://www.bilibili.com/video/av49736102/) 
+
+[第七课文章](https://mp.weixin.qq.com/s/1ssipS4vseDf1cgXQHxBRw)
 
 讲师：孙梦瑶（美团点评研发工程师)
 ### 1.8 Flink Table API 编程 
      
 [PPT点我](https://files.alicdn.com/tpsservice/a44825ebca091345481dc2ddbb789d1d.pdf)
 
-[视频回放点我](https://www.bilibili.com/video/av50460716/)          
+[视频回放点我](https://www.bilibili.com/video/av50460716/) 
+
+[第八课文章](https://mp.weixin.qq.com/s/B2-WT3gSui4ylmWK92aQng)
 
 讲师：程鹤群（Apache Flink Contributor)
 ### 1.9 Flink SQL 编程
 [PPT点我](https://files.alicdn.com/tpsservice/3d4b0eaf1d24414ecf76f5e597b6c276.pdf)
 
 [视频回放点我](https://www.bilibili.com/video/av50871853/)     
+
+[第九课文章](https://mp.weixin.qq.com/s/QUaJJtB5A9vyAB3d_Vg6bA)
 
 讲师：伍翀（Apache Flink Committer)
