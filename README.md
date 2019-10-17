@@ -78,7 +78,8 @@ https://dwz.cn/ioH4FiMZ
     
  ### 3.9 Flink 作业问题分析和调优实践 
  [PPT](https://files.alicdn.com/tpsservice/b085f11c9a1d8566873aa9141ac67d79.pdf)
-
+ 
+ [视频回放](https://www.bilibili.com/video/av71513720/) 
 
 
     讲师：李康（虎牙 实时平台负责人）
