@@ -88,6 +88,8 @@ https://www.bilibili.com/video/av71517088/
     
  ### 3.10 Flink 生产配置最佳实践  
  
+  [PPT](https://files.alicdn.com/tpsservice/d29891c4fb2fadc289962dd1618bd5bb.pdf)
+
   [视频回放](https://www.bilibili.com/video/av71597448/) 
 
     讲师：席建刚 趣头条实时平台负责人
