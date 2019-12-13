@@ -1,12 +1,9 @@
 
 
-### 大数据领域顶级盛会 Flink Forward Asia 2019 详情🔎
+### 大数据领域顶级盛会 Flink Forward Asia 2019 精彩回看🔎
 
-https://dwz.cn/ioH4FiMZ
+https://url.cn/5tGC874
 
-### 直击 Flink Forward Berlin 2019 现场回放！精彩
-
-https://www.bilibili.com/video/av71517088/
 
 
 课程简介：本系列课程由 Apache Flink Community China 官方出品。旨在为具备一定大数据基础、对Apache Flink感兴趣的同学提供系统性的入门教程，课程路径为“基础篇>>进阶篇>>运维篇>>实战篇>>源码篇”。
