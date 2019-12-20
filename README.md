@@ -88,6 +88,14 @@ https://url.cn/5tGC874
   [视频回放](https://www.bilibili.com/video/av71597448/) 
 
     讲师：席建刚 趣头条实时平台负责人
+
+
+ ### 3.11 基于 Apache Flink 的监控告警系统
+ 
+     讲师：zhisheng（《Flink 实战与性能优化》专栏作者）
+     时间：12月26日 20:00-21:00 （UTC+8）
+
+
     
 # S2 进阶篇（已完结）
 备注：S1基础篇本页下滑可见
