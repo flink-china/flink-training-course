@@ -92,8 +92,12 @@ https://url.cn/5tGC874
 
  ### 3.11 基于 Apache Flink 的监控告警系统
  
+  [PPT](https://files.alicdn.com/tpsservice/61774ae8080cd6b28145c32c99ad026a.pdf)
+
+  [视频回放](https://www.bilibili.com/video/av80497878/) 
+
      讲师：zhisheng（《Flink 实战与性能优化》专栏作者）
-     时间：12月23日（周一） 20:00-21:00 （UTC+8）
+      
 
 
     
