@@ -9,6 +9,8 @@ https://url.cn/5tGC874
 * Apache Flink 中文邮件列表使用方式
 [视频](https://www.bilibili.com/video/av57076677/) 
 
+Flink中文学习网站地址：https://ververica.cn/developers/flink-training-course3/
+
 
 
 
