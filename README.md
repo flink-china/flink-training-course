@@ -106,8 +106,13 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
 
 ### 3.12 30分钟教你如何入门 – Apache Flink 最全知识图谱详解
     讲师：程鹤群（军长）（Apache Flink Committer，阿里巴巴技术专家）
-    直播：2月11日20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
+    
+    [知识图谱](https://ververica.cn/developers/special-issue/）
+   
+    [PPT](https://files.alicdn.com/tpsservice/180ded6abcab5207f87ce34faa78cf1c.pdf)
+
+    [视频回放](https://www.bilibili.com/video/av88469519/) 
+
 
 
 ### 3.13 Demo: 基于 Flink SQL 构建离线应用
