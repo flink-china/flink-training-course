@@ -116,9 +116,13 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
 
 
 ### 3.13 Demo: 基于 Flink SQL 构建离线应用
+   
+   [PPT](https://files.alicdn.com/tpsservice/405823389e31f876d55f4c909eada4d4.pdf)
+
+  [视频回放](https://www.bilibili.com/video/av90320234/) 
+    
     讲师：李劲松（之信）（Apache Beam Committer，阿里巴巴技术专家）
-    直播：2月18日20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
+   
 
 
 ### 3.14 Demo: 基于 Flink SQL 构建实时应用
