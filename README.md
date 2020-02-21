@@ -126,9 +126,14 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
 
 
 ### 3.14 Demo: 基于 Flink SQL 构建实时应用
+
+[PPT](https://files.alicdn.com/tpsservice/8358c124730863fe2b828266941f4a34.pdf)
+
+  [视频回放](https://www.bilibili.com/video/av90560012/) 
+    
+    
     讲师：伍翀（云邪）（Apache Flink PMC，阿里巴巴技术专家）
-    直播：2月20日20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
+   
     
 ### 3.15 【1.10特别篇】Flink on Zeppelin: 极致体验(1) 入门 + Batch
     讲师：章剑锋（Apache Zeppelin PMC，阿里巴巴高级技术专家） 
