@@ -127,7 +127,7 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
 
 ### 3.14 Demo: 基于 Flink SQL 构建实时应用
 
-[PPT](https://files.alicdn.com/tpsservice/8358c124730863fe2b828266941f4a34.pdf)
+  [PPT](https://files.alicdn.com/tpsservice/8358c124730863fe2b828266941f4a34.pdf)
 
   [视频回放](https://www.bilibili.com/video/av90560012/) 
     
@@ -136,9 +136,12 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
    
     
 ### 3.15 【1.10特别篇】Flink on Zeppelin: 极致体验(1) 入门 + Batch
-    讲师：章剑锋（Apache Zeppelin PMC，阿里巴巴高级技术专家） 
-    直播：2月25日 19:00-20:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
+  [PPT](https://files.alicdn.com/tpsservice/7ee4adfd0d54825bb3404133b0f25a0d.pdf)
+
+  [视频回放](https://www.bilibili.com/video/av91740063/) 
+  
+     讲师：章剑锋（Apache Zeppelin PMC，阿里巴巴高级技术专家） 
+   
     
 ### 3.16 【实时数仓篇】利用 Flink 实现典型的实时 ETL 场景
     讲师：买蓉（美团点评）
