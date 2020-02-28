@@ -144,9 +144,13 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
    
     
 ### 3.16 【实时数仓篇】利用 Flink 实现典型的实时 ETL 场景
-    讲师：买蓉（美团点评）
-    直播：2月27日 20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
+  
+  [PPT](https://files.alicdn.com/tpsservice/e4356097e11364edadb5627a892ee53b.pdf)
+
+  [视频回放](https://www.bilibili.com/video/av92215954/) 
+  
+     讲师：买蓉（美团点评）
+    
     
 ### 3.17 【1.10特别篇】Flink on Zeppelin: 极致体验(2) Streaming + 高级用法
     讲师：章剑锋（Apache Zeppelin PMC，阿里巴巴高级技术专家） 
