@@ -153,9 +153,12 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
     
     
 ### 3.17 【1.10特别篇】Flink on Zeppelin: 极致体验(2) Streaming + 高级用法
-    讲师：章剑锋（Apache Zeppelin PMC，阿里巴巴高级技术专家） 
-    直播：3月3日 19:00-20:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
+   [PPT](https://files.alicdn.com/tpsservice/a3b36e922140a40190b824e7ddd9bc0f.pdf)
+
+   [视频回放](https://www.bilibili.com/video/av93631574/) 
+       
+     讲师：章剑锋（Apache Zeppelin PMC，阿里巴巴高级技术专家） 
+    
     
 ### 3.18 【1.10特别篇】Alink
     讲师：杨旭（阿里巴巴资深算法专家）
