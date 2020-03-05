@@ -160,7 +160,7 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
      讲师：章剑锋（Apache Zeppelin PMC，阿里巴巴高级技术专家） 
     
     
-### 3.18 【1.10特别篇】Alink
+### 3.18 【1.10特别篇】Alink 入门到实践
     讲师：杨旭（阿里巴巴资深算法专家）
     直播：3月5日 20:00-21:00 （UTC+8）
     备注：视频、PPT待直播后更新 
