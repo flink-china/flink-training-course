@@ -153,6 +153,7 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
     
     
 ### 3.17 【1.10特别篇】Flink on Zeppelin: 极致体验(2) Streaming + 高级用法
+  
    [PPT](https://files.alicdn.com/tpsservice/a3b36e922140a40190b824e7ddd9bc0f.pdf)
 
    [视频回放](https://www.bilibili.com/video/av93631574/) 
@@ -161,9 +162,13 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
     
     
 ### 3.18 【1.10特别篇】Alink 入门到实践
-    讲师：杨旭（阿里巴巴资深算法专家）
-    直播：3月5日 20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
+   
+   [PPT](https://files.alicdn.com/tpsservice/62b6867f6605c8052a9bb28f7cbec98f.pdf)
+
+   [视频回放](https://www.bilibili.com/video/av94234450/) 
+    
+     讲师：杨旭（阿里巴巴资深算法专家）
+
     
 ### 3.19 【实时数仓篇】利用 Flink 实现实时超时统计场景
     讲师：马汶园（菜鸟 数据工程师）
