@@ -171,14 +171,23 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
 
     
 ### 3.19 【实时数仓篇】利用 Flink 实现实时超时统计场景
+    
+   [PPT](https://files.alicdn.com/tpsservice/0f9d6f504576175dbf6d084c3e2a43fa.pdf)
+
+   [视频回放](https://www.bilibili.com/video/av95428038/) 
+   
     讲师：马汶园（菜鸟 数据工程师）
-    直播：3月10日 20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
+    
     
 ### 3.20 【实时数仓篇】利用 Flink 实现实时状态复用场景
+
+   [PPT](https://files.alicdn.com/tpsservice/516d809e59a785518adc88645a4d2f78.pdf)
+
+   [视频回放](https://www.bilibili.com/video/av95995649/) 
+    
+    
     讲师：李晨（菜鸟 数据工程师）
-    直播：3月12日 20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
+   
     
 ### 3.21 【1.10特别篇】PyFlink
     讲师：孙金城（Apache Flink PMC, 阿里巴巴高级技术专家）
