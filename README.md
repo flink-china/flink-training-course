@@ -190,9 +190,13 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
    
     
 ### 3.21 【1.10特别篇】PyFlink 架构、应用案例及未来规划
+
+  [PPT](https://files.alicdn.com/tpsservice/1b538be75c4dddebb621b4e688025a49.pdf)
+
+  [视频回放](https://www.bilibili.com/video/av97241425/) 
+    
     讲师：孙金城（Apache Flink PMC，Apache Beam Committer， 阿里巴巴高级技术专家）
-    直播：3月17日 20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
+    
     
 ### 3.22 【实时数仓篇】Flink 窗口函数的应用场景
     讲师：张俊（Apache Flink Contributor，OPPO大数据平台研发负责人）
