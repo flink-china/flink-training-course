@@ -212,6 +212,23 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
     讲师：王阳（阿里巴巴实时计算引擎团队研发专家）
     直播：4月2日 20:00-21:00 （UTC+8）
     备注：视频、PPT待直播后更新 
+    
+### 3.25 【1.10特别篇】container 环境实战
+    讲师：唐云（Apache Flink Contributor，阿里巴巴高级开发工程师)
+     直播：4月7日 20:00-21:00 （UTC+8）
+     备注：视频、PPT待直播后更新 
+
+### 3.26 Flink 完美搭档 – Pravega：架构总览
+     讲师：滕昱（DellEMC 技术总监)
+     直播：4月9日 20:00-21:00 （UTC+8）
+     备注：视频、PPT待直播后更新 
+
+### 3.27 PyFlink 最新功能介绍
+     讲师：程鹤群（军长）（Apache Flink Committer，阿里巴巴技术专家）
+    直播：4月16日 20:00-21:00 （UTC+8）
+    备注：视频、PPT待直播后更新 
+
+
 
 # S2 进阶篇（已完结）
 备注：S1基础篇本页下滑可见
