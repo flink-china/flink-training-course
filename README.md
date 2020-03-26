@@ -203,7 +203,7 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
     直播：3月26日 20:00-21:00 （UTC+8）
     备注：视频、PPT待直播后更新  
     
-### 3.23 【1.10特别篇】Flink 资源管理与配置
+### 3.23 【1.10特别篇】《Flink TaskExecutor 内存管理与配置》
     讲师：宋辛童（Apache Flink Contributor，阿里巴巴高级开发工程师）
     直播：3月31日 20:00-21:00 （UTC+8）
     备注：视频、PPT待直播后更新 
