@@ -199,10 +199,14 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
     
     
 ### 3.22 【1.10特别篇】Running Flink on Kubernetes natively
-    讲师：王阳（阿里巴巴实时计算引擎团队研发专家）
-    直播：3月26日 20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新  
+
+ [PPT]( https://files.alicdn.com/tpsservice/b52061940fbbe984dce67d8103f9d142.pdf )
+
+ [视频回放](https://www.bilibili.com/video/BV1F5411r72P/) 
     
+    讲师：王阳（阿里巴巴实时计算引擎团队研发专家）
+   
+
 ### 3.23 【1.10特别篇】《Flink TaskExecutor 内存管理与配置》
     讲师：宋辛童（Apache Flink Contributor，阿里巴巴高级开发工程师）
     直播：3月31日 20:00-21:00 （UTC+8）
