@@ -198,22 +198,25 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
     讲师：孙金城（Apache Flink PMC，Apache Beam Committer， 阿里巴巴高级技术专家）
     
     
-### 3.22 【实时数仓篇】Flink 窗口函数的应用场景
-    讲师：张俊（Apache Flink Contributor，OPPO大数据平台研发负责人）
-    直播：3月26日 20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
+### 3.22 【1.10特别篇】Running Flink on Kubernetes natively
+
+ [PPT]( https://files.alicdn.com/tpsservice/b52061940fbbe984dce67d8103f9d142.pdf )
+
+ [视频回放](https://www.bilibili.com/video/BV1F5411r72P/) 
     
-### 3.23 【1.10特别篇】细粒度资源管理
-    讲师：宋辛童（Apache Flink Contributor，阿里巴巴高级开发工程师）
-    直播：3月31日 20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
-    
-### 3.24 【1.10特别篇】native on Kubernetes
     讲师：王阳（阿里巴巴实时计算引擎团队研发专家）
-    直播：4月2日 20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
+   
+
+### 3.23 【1.10特别篇】《Flink TaskExecutor 内存管理与配置》
+
+ [PPT]( https://files.alicdn.com/tpsservice/303974c40369839ed6dc175664237a54.pdf)
+
+ [视频回放](https://www.bilibili.com/video/BV1At4y1U7vH/) 
+ 
+    讲师：宋辛童（Apache Flink Contributor，阿里巴巴高级开发工程师）
     
-### 3.25 【1.10特别篇】container 环境实战
+     
+### 3.24 【1.10特别篇】container 环境实战
     讲师：唐云（Apache Flink Contributor，阿里巴巴高级开发工程师)
      直播：4月7日 20:00-21:00 （UTC+8）
      备注：视频、PPT待直播后更新 
@@ -222,6 +225,11 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
      讲师：滕昱（DellEMC 技术总监)
      直播：4月9日 20:00-21:00 （UTC+8）
      备注：视频、PPT待直播后更新 
+     
+ ###  3.26 【实时数仓篇】Flink 窗口函数的应用场景
+    讲师：张俊（Apache Flink Contributor，OPPO大数据平台研发负责人）
+    直播：4月14日 20:00-21:00 （UTC+8）
+    备注：视频、PPT待直播后更新 
 
 ### 3.27 PyFlink 最新功能介绍
      讲师：程鹤群（军长）（Apache Flink Committer，阿里巴巴技术专家）
