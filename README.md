@@ -217,9 +217,13 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
     
      
 ### 3.24 【1.10特别篇】container 环境实战
-    讲师：唐云（Apache Flink Contributor，阿里巴巴高级开发工程师)
-     直播：4月7日 20:00-21:00 （UTC+8）
-     备注：视频、PPT待直播后更新 
+
+ [PPT]( https://files.alicdn.com/tpsservice/e063c6e2ef4dfe25007ec203504a6ed3.pdf)
+
+ [视频回放](https://www.bilibili.com/video/BV1Vg4y187LT/) 
+    
+      讲师：唐云（Apache Flink Contributor，阿里巴巴高级开发工程师)
+    
 
 ### 3.26 Flink 完美搭档 – Pravega：架构总览
      讲师：滕昱（DellEMC 技术总监)
