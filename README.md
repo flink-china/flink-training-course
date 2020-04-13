@@ -236,7 +236,7 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
      
  ###  3.26 【实时数仓篇】Flink 窗口函数的应用场景
     讲师：张俊（Apache Flink Contributor，OPPO大数据平台研发负责人）
-    直播：4月14日 20:00-21:00 （UTC+8）
+    直播：4月15日 20:00-21:00 （UTC+8）
     备注：视频、PPT待直播后更新 
 
 ### 3.27 PyFlink 最新功能介绍
