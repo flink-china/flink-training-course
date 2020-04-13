@@ -226,9 +226,13 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
     
 
 ### 3.26 Flink 完美搭档 – Pravega：架构总览
+
+[PPT](https://files.alicdn.com/tpsservice/2be791ca278bccb9e2ec248faee8dabc.pdf)
+
+ [视频回放](https://www.bilibili.com/video/BV1YC4y1s7M1) 
+    
      讲师：滕昱（DellEMC 技术总监)
-     直播：4月9日 20:00-21:00 （UTC+8）
-     备注：视频、PPT待直播后更新 
+    
      
  ###  3.26 【实时数仓篇】Flink 窗口函数的应用场景
     讲师：张俊（Apache Flink Contributor，OPPO大数据平台研发负责人）
