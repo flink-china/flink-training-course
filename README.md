@@ -249,6 +249,11 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
     备注：视频、PPT待直播后更新 
 
 
+### 3.28【实时数仓篇】深入解读 Flink 资源管理机制
+    讲师：宋辛童（Apache Flink Contributor，阿里巴巴高级开发工程师）
+    直播：4月21日 20:00-21:00 （UTC+8）
+    备注：视频、PPT待直播后更新 
+
 
 # S2 进阶篇（已完结）
 备注：S1基础篇本页下滑可见
