@@ -244,7 +244,7 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
    
 
 ### 3.27 PyFlink 核心功能介绍
-     讲师：程鹤群（军长）（Apache Flink Committer，阿里巴巴技术专家）
+     讲师：程鹤群（军长）（Apache Flink PMC，阿里巴巴技术专家）
     直播：4月16日 20:00-21:00 （UTC+8）
     备注：视频、PPT待直播后更新 
 
