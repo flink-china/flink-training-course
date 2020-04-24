@@ -244,16 +244,37 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
    
 
 ### 3.27 PyFlink 核心功能介绍
+
+ 
+ [PPT](https://files.alicdn.com/tpsservice/473830c4db37ebc8f7da7b112734cf69.pdf)
+
+ [视频回放](https://www.bilibili.com/video/BV1yt4y127sL/)
+
      讲师：程鹤群（军长）（Apache Flink PMC，阿里巴巴技术专家）
-    直播：4月16日 20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
+  
 
 
 ### 3.28【实时数仓篇】深入解读 Flink 资源管理机制
-    讲师：宋辛童（Apache Flink Contributor，阿里巴巴高级开发工程师）
-    直播：4月21日 20:00-21:00 （UTC+8）
+
+ 
+ [PPT](https://files.alicdn.com/tpsservice/51c8324cf47dbf835c703e7ef8419d2a.pdf)
+
+ [视频回放](https://www.bilibili.com/video/BV1ht4y127UV/)
+
+       讲师：宋辛童（Apache Flink Contributor，阿里巴巴高级开发工程师）
+    
+### 3.29【社区成长篇】从0到1，何如参与 Flink 社区
+
+    讲师：付典（Apache Flink Committer，阿里巴巴技术专家）
+    直播：4月28日 20:00-21:00 （UTC+8）
     备注：视频、PPT待直播后更新 
 
+
+###  3.30【生态篇】Pulsar+Flink
+
+    讲师：申毅杰（Apache Pulsar/Flink/Spark contributor，StreamNative 高级工程师）
+    直播：5月12日 20:00-21:00 （UTC+8）
+    备注：视频、PPT待直播后更新 
 
 # S2 进阶篇（已完结）
 备注：S1基础篇本页下滑可见
