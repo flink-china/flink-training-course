@@ -275,6 +275,13 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
     讲师：申毅杰（Apache Pulsar/Flink/Spark contributor，StreamNative 高级工程师）
     直播：5月12日 20:00-21:00 （UTC+8）
     备注：视频、PPT待直播后更新 
+    
+    
+### 3.31【实时数仓篇】利用Flink更高效的实现代码优化
+    讲师：程硕（阿里巴巴开发工程师）
+    直播：5月21日 20:00-21:00 （UTC+8）
+    备注：视频、PPT待直播后更新 
+
 
 # S2 进阶篇（已完结）
 备注：S1基础篇本页下滑可见
