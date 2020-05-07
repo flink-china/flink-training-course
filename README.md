@@ -431,7 +431,9 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
 
 [1&2课文章](https://mp.weixin.qq.com/s/oBmRhRA-52CLRLXp6sZwEw)
 
- 讲师：陈守元（阿里巴巴高级产品专家）
+    讲师：陈守元（阿里巴巴高级产品专家）
+    
+    
 ### 1.2 Flink基本概念
 
 [PPT点我](https://files.alicdn.com/tpsservice/b55f732fbc32522ca5394544f3834530.pdf)
@@ -440,7 +442,8 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
 
 [1&2课文章](https://mp.weixin.qq.com/s/oBmRhRA-52CLRLXp6sZwEw)
  
-讲师：戴资力（Apache Flink PMC)  
+    讲师：戴资力（Apache Flink PMC)  
+    
 ### 1.3 Flink 安装部署、环境配置及运行应用程序
 
 [PPT点我](https://files.alicdn.com/tpsservice/4824447b829149c86bedd19424d05915.pdf)
@@ -449,7 +452,7 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
 
 [第三课文章](https://mp.weixin.qq.com/s/noD2Jv6m-somEMtjWTJh3w)
            
-讲师：沙晟阳（阿里巴巴高级开发工程师)
+    讲师：沙晟阳（阿里巴巴高级开发工程师)
 
 ### 1.4 DataStream API编程
 [PPT点我](https://files.alicdn.com/tpsservice/38bf5c75c7491323b4b99101a2fab65c.pdf) 
@@ -458,7 +461,7 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
 
 [第四课文章](https://mp.weixin.qq.com/s/nLHjYUCx2mOGBSFS4_uu_g)
 
-讲师：崔星灿（Apache Flink Committer)
+    讲师：崔星灿（Apache Flink Committer)
 
 ### 1.5 客户端操作
 [PPT点我](https://files.alicdn.com/tpsservice/a8d224d6a3b8b82d03aa84e370c008cc.pdf)
@@ -467,7 +470,7 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
 
 [第五课文章](https://mp.weixin.qq.com/s/KfuAZv2G0682NNzHv0iFfQ)
           
-讲师：周凯波（阿里巴巴技术专家）
+    讲师：周凯波（阿里巴巴技术专家）
        
 ### 1.6 Window & Time
 [PPT点我](https://files.alicdn.com/tpsservice/5a77d1eaf0fda97b512762103c4cbd91.pdf)
@@ -476,7 +479,7 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
 
 [第六课文章](https://mp.weixin.qq.com/s/43N3W9rQ2HEHIyBM1jh4Lw)
           
-讲师：邱从贤（阿里巴巴高级开发工程师）
+    讲师：邱从贤（阿里巴巴高级开发工程师）
           
 ### 1.7 状态管理与容错机制 
 [PPT点我](https://files.alicdn.com/tpsservice/1b9f5f0bda10883dce78496e6a5d648a.pdf)
@@ -485,7 +488,7 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
 
 [第七课文章](https://mp.weixin.qq.com/s/1ssipS4vseDf1cgXQHxBRw)
 
-讲师：孙梦瑶（美团点评研发工程师)
+    讲师：孙梦瑶（美团点评研发工程师)
 ### 1.8 Flink Table API 编程 
      
 [PPT点我](https://files.alicdn.com/tpsservice/a44825ebca091345481dc2ddbb789d1d.pdf)
@@ -494,7 +497,7 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
 
 [第八课文章](https://mp.weixin.qq.com/s/B2-WT3gSui4ylmWK92aQng)
 
-讲师：程鹤群（Apache Flink Contributor)
+    讲师：程鹤群（Apache Flink Contributor)
 ### 1.9 Flink SQL 编程
 [PPT点我](https://files.alicdn.com/tpsservice/3d4b0eaf1d24414ecf76f5e597b6c276.pdf)
 
@@ -502,4 +505,4 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
 
 [第九课文章](https://mp.weixin.qq.com/s/QUaJJtB5A9vyAB3d_Vg6bA)
 
-讲师：伍翀（Apache Flink Committer)
+    讲师：伍翀（Apache Flink Committer)
