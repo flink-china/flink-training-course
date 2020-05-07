@@ -265,9 +265,12 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
     
 ### 3.29【社区成长篇】从0到1，何如参与 Flink 社区
 
+ [PPT](https://files.alicdn.com/tpsservice/7b5829ba0c884389d93d5380bbdda34a.pdf)
+
+ [视频回放](https://www.bilibili.com/video/BV1kK411577L/)
+ 
     讲师：付典（Apache Flink Committer，阿里巴巴技术专家）
-    直播：4月28日 20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
+   
 
 
 ###  3.30【生态篇】Pulsar+Flink
