@@ -119,6 +119,7 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
     
     讲师：伍翀（云邪）（Apache Flink PMC，阿里巴巴技术专家）
    
+—————————————————————————————————————————————————————————
     
 ### 【1.10特别篇】1. Flink on Zeppelin: 极致体验(1) 入门 + Batch
   [PPT](https://files.alicdn.com/tpsservice/7ee4adfd0d54825bb3404133b0f25a0d.pdf)
@@ -127,7 +128,6 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
   
      讲师：章剑锋（Apache Zeppelin PMC，阿里巴巴高级技术专家） 
      
-———————————————————————————————————————————————————————————— 
     
     
 ### 【1.10特别篇】2. Flink on Zeppelin: 极致体验(2) Streaming + 高级用法
@@ -182,7 +182,7 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
     
       讲师：唐云（Apache Flink Contributor，阿里巴巴高级开发工程师)
       
-————————————————————————————————————————————————————————— 
+—————————————————————————————————————————————————————————
       
      
 ### 【实时数仓】1. Flink 实时数仓的应用
@@ -245,7 +245,7 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
     直播：5月21日 20:00-21:00 （UTC+8）
     备注：视频、PPT待直播后更新 
     
-———————————————————————————————————————————————————————————— 
+—————————————————————————————————————————————————————————
     
 ### 【生态篇】1. Flink 完美搭档 – Pravega：架构总览
 
@@ -275,7 +275,7 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
     讲师：申毅杰（Apache Pulsar/Flink/Spark contributor，StreamNative 高级工程师）
     
     
-————————————————————————————————————————————————————————————— 
+——————————————————————————————————————————————————————— 
 
 
 ### 【社区成长篇】1. 30分钟教你如何入门 – Apache Flink 最全知识图谱详解
@@ -297,7 +297,7 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
     讲师：付典（Apache Flink Committer，阿里巴巴技术专家）
    
    
-——————————————————————————————————————————————————————— 
+ 
     
 
 
