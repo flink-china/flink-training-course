@@ -275,9 +275,11 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
 
 ###  3.30【生态篇】Flink Pulsar Connector 机制剖析
 
+ [PPT](https://files.alicdn.com/tpsservice/cea77fbe0b2f66d8faae5afc24e09e48.pdf)
+
+ [视频回放](https://www.bilibili.com/video/BV1YQ4y1A7VN/)
+
     讲师：申毅杰（Apache Pulsar/Flink/Spark contributor，StreamNative 高级工程师）
-    直播：5月12日 20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
     
     
 ### 3.31【实时数仓篇】利用Flink更高效的实现代码优化
