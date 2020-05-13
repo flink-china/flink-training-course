@@ -25,24 +25,124 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
     
 [视频回放](https://www.bilibili.com/video/av64821415/) 
 
-————————————————————————————————————————————————————————— 
-
-### 【进阶篇】1. Flink CEP 实战
-[PPT](https://files.alicdn.com/tpsservice/94d409d9679d1b46034f7d00161d99a7.pdf)
-
-[视频回放]( https://www.bilibili.com/video/av66073054/) 
+—————————————————————————————————————————————————————————
+      
      
-     讲师：刘博（哈啰出行大数据实时平台资深开发）
-    
-      
-### 【进阶篇】2. State Processor API 介绍与演示
-[PPT](https://files.alicdn.com/tpsservice/68a51e5b05797748f470845ceeb08bc4.pdf)
+### 【实时数仓】1. Flink 实时数仓的应用
+   [PPT](https://files.alicdn.com/tpsservice/d2b9e181918024538422e8768dde6983.pdf)
 
-[视频回放]( https://www.bilibili.com/video/av67942201/)  
+   [视频回放]( https://www.bilibili.com/video/av66782142)  
       
-      讲师：戴资力（Apache Flink PMC）
+      讲师：黄伟伦（美团实时数仓技术专家）
       
+      
+### 【实时数仓】2. 利用 Flink 实现典型的实时 ETL 场景
+  
+  [PPT](https://files.alicdn.com/tpsservice/e4356097e11364edadb5627a892ee53b.pdf)
+
+  [视频回放](https://www.bilibili.com/video/av92215954/) 
+  
+     讲师：买蓉（美团点评）
+
+    
+### 【实时数仓】 3. 利用 Flink 实现实时超时统计场景
+    
+   [PPT](https://files.alicdn.com/tpsservice/0f9d6f504576175dbf6d084c3e2a43fa.pdf)
+
+   [视频回放](https://www.bilibili.com/video/av95428038/) 
+   
+    讲师：马汶园（菜鸟 数据工程师）
+    
+    
+### 【实时数仓】4.  利用 Flink 实现实时状态复用场景
+
+   [PPT](https://files.alicdn.com/tpsservice/516d809e59a785518adc88645a4d2f78.pdf)
+
+   [视频回放](https://www.bilibili.com/video/av95995649/) 
+    
+    
+    讲师：李晨（菜鸟 数据工程师）
+    
+     
+ ### 【实时数仓】5. Flink 窗口函数的应用场景
+ 
+ [PPT](https://files.alicdn.com/tpsservice/73a1f1c404d2a658585cf4f4d86ef776.pdf)
+
+ [视频回放](https://www.bilibili.com/video/BV1n54y1976u/)
+ 
+    讲师：张俊（Apache Flink Contributor，OPPO大数据平台研发负责人）
+    
+
+### 【实时数仓篇】6. 深入解读 Flink 资源管理机制
+
+ 
+ [PPT](https://files.alicdn.com/tpsservice/51c8324cf47dbf835c703e7ef8419d2a.pdf)
+
+ [视频回放](https://www.bilibili.com/video/BV1ht4y127UV/)
+
+       讲师：宋辛童（Apache Flink Contributor，阿里巴巴高级开发工程师）
+    
+    
+### 【实时数仓】7. 利用Flink更高效的实现代码优化
+    讲师：程硕（阿里巴巴开发工程师）
+    直播：5月21日 20:00-21:00 （UTC+8）
+    备注：视频、PPT待直播后更新 
+    
+—————————————————————————————————————————————————————————
+    
+### 【生态篇】1. Flink 完美搭档 – Pravega：架构总览
+
+[PPT](https://files.alicdn.com/tpsservice/2be791ca278bccb9e2ec248faee8dabc.pdf)
+
+ [视频回放](https://www.bilibili.com/video/BV1YC4y1s7M1) 
+    
+     讲师：滕昱（DellEMC 技术总监)
+   
+
+### 【生态篇】2. PyFlink 核心功能介绍
+
+ 
+ [PPT](https://files.alicdn.com/tpsservice/473830c4db37ebc8f7da7b112734cf69.pdf)
+
+ [视频回放](https://www.bilibili.com/video/BV1yt4y127sL/)
+
+     讲师：程鹤群（军长）（Apache Flink PMC，阿里巴巴技术专家）
+     
+
+### 【生态篇】 3. Flink Pulsar Connector 机制剖析
+
+ [PPT](https://files.alicdn.com/tpsservice/cea77fbe0b2f66d8faae5afc24e09e48.pdf)
+
+ [视频回放](https://www.bilibili.com/video/BV1YQ4y1A7VN/)
+
+    讲师：申毅杰（Apache Pulsar/Flink/Spark contributor，StreamNative 高级工程师）
+    
+    
+——————————————————————————————————————————————————————— 
+
+
+### 【社区成长篇】1. 30分钟教你如何入门 – Apache Flink 最全知识图谱详解
+    讲师：程鹤群（军长）（Apache Flink Committer，阿里巴巴技术专家）
+    
+   [知识图谱](https://ververica.cn/developers/special-issue/）
+   
+   [PPT](https://files.alicdn.com/tpsservice/180ded6abcab5207f87ce34faa78cf1c.pdf)
+
+   [视频回放](https://www.bilibili.com/video/av88469519/) 
+   
+    
+### 【社区成长篇】2. 从0到1，何如参与 Flink 社区
+
+ [PPT](https://files.alicdn.com/tpsservice/7b5829ba0c884389d93d5380bbdda34a.pdf)
+
+ [视频回放](https://www.bilibili.com/video/BV1kK411577L/)
+ 
+    讲师：付典（Apache Flink Committer，阿里巴巴技术专家）
+   
+   
+ 
 ————————————————————————————————————————————————————————— 
+
 
 ### 【运维篇】1. Flink 反压/延时监控和调参控制
 [PPT](https://files.alicdn.com/tpsservice/39edc75090edabcaa4fb9639604a37c5.pdf)
@@ -182,122 +282,6 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
     
       讲师：唐云（Apache Flink Contributor，阿里巴巴高级开发工程师)
       
-—————————————————————————————————————————————————————————
-      
-     
-### 【实时数仓】1. Flink 实时数仓的应用
-   [PPT](https://files.alicdn.com/tpsservice/d2b9e181918024538422e8768dde6983.pdf)
-
-   [视频回放]( https://www.bilibili.com/video/av66782142)  
-      
-      讲师：黄伟伦（美团实时数仓技术专家）
-      
-      
-### 【实时数仓】2. 利用 Flink 实现典型的实时 ETL 场景
-  
-  [PPT](https://files.alicdn.com/tpsservice/e4356097e11364edadb5627a892ee53b.pdf)
-
-  [视频回放](https://www.bilibili.com/video/av92215954/) 
-  
-     讲师：买蓉（美团点评）
-
-    
-### 【实时数仓】 3. 利用 Flink 实现实时超时统计场景
-    
-   [PPT](https://files.alicdn.com/tpsservice/0f9d6f504576175dbf6d084c3e2a43fa.pdf)
-
-   [视频回放](https://www.bilibili.com/video/av95428038/) 
-   
-    讲师：马汶园（菜鸟 数据工程师）
-    
-    
-### 【实时数仓】4.  利用 Flink 实现实时状态复用场景
-
-   [PPT](https://files.alicdn.com/tpsservice/516d809e59a785518adc88645a4d2f78.pdf)
-
-   [视频回放](https://www.bilibili.com/video/av95995649/) 
-    
-    
-    讲师：李晨（菜鸟 数据工程师）
-    
-     
- ### 【实时数仓】5. Flink 窗口函数的应用场景
- 
- [PPT](https://files.alicdn.com/tpsservice/73a1f1c404d2a658585cf4f4d86ef776.pdf)
-
- [视频回放](https://www.bilibili.com/video/BV1n54y1976u/)
- 
-    讲师：张俊（Apache Flink Contributor，OPPO大数据平台研发负责人）
-    
-
-### 【实时数仓篇】6. 深入解读 Flink 资源管理机制
-
- 
- [PPT](https://files.alicdn.com/tpsservice/51c8324cf47dbf835c703e7ef8419d2a.pdf)
-
- [视频回放](https://www.bilibili.com/video/BV1ht4y127UV/)
-
-       讲师：宋辛童（Apache Flink Contributor，阿里巴巴高级开发工程师）
-    
-    
-### 【实时数仓】7. 利用Flink更高效的实现代码优化
-    讲师：程硕（阿里巴巴开发工程师）
-    直播：5月21日 20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
-    
-—————————————————————————————————————————————————————————
-    
-### 【生态篇】1. Flink 完美搭档 – Pravega：架构总览
-
-[PPT](https://files.alicdn.com/tpsservice/2be791ca278bccb9e2ec248faee8dabc.pdf)
-
- [视频回放](https://www.bilibili.com/video/BV1YC4y1s7M1) 
-    
-     讲师：滕昱（DellEMC 技术总监)
-   
-
-### 【生态篇】2. PyFlink 核心功能介绍
-
- 
- [PPT](https://files.alicdn.com/tpsservice/473830c4db37ebc8f7da7b112734cf69.pdf)
-
- [视频回放](https://www.bilibili.com/video/BV1yt4y127sL/)
-
-     讲师：程鹤群（军长）（Apache Flink PMC，阿里巴巴技术专家）
-     
-
-### 【生态篇】 3. Flink Pulsar Connector 机制剖析
-
- [PPT](https://files.alicdn.com/tpsservice/cea77fbe0b2f66d8faae5afc24e09e48.pdf)
-
- [视频回放](https://www.bilibili.com/video/BV1YQ4y1A7VN/)
-
-    讲师：申毅杰（Apache Pulsar/Flink/Spark contributor，StreamNative 高级工程师）
-    
-    
-——————————————————————————————————————————————————————— 
-
-
-### 【社区成长篇】1. 30分钟教你如何入门 – Apache Flink 最全知识图谱详解
-    讲师：程鹤群（军长）（Apache Flink Committer，阿里巴巴技术专家）
-    
-   [知识图谱](https://ververica.cn/developers/special-issue/）
-   
-   [PPT](https://files.alicdn.com/tpsservice/180ded6abcab5207f87ce34faa78cf1c.pdf)
-
-   [视频回放](https://www.bilibili.com/video/av88469519/) 
-   
-    
-### 【社区成长篇】2. 从0到1，何如参与 Flink 社区
-
- [PPT](https://files.alicdn.com/tpsservice/7b5829ba0c884389d93d5380bbdda34a.pdf)
-
- [视频回放](https://www.bilibili.com/video/BV1kK411577L/)
- 
-    讲师：付典（Apache Flink Committer，阿里巴巴技术专家）
-   
-   
- 
     
 
 
@@ -435,6 +419,20 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
     讲师：孙金城（Apache Flink PMC，阿里巴巴高级技术专家)
     
 
+### 2.15 Flink CEP 实战
+[PPT](https://files.alicdn.com/tpsservice/94d409d9679d1b46034f7d00161d99a7.pdf)
+
+[视频回放]( https://www.bilibili.com/video/av66073054/) 
+     
+     讲师：刘博（哈啰出行大数据实时平台资深开发）
+    
+      
+### 2.16 State Processor API 介绍与演示
+[PPT](https://files.alicdn.com/tpsservice/68a51e5b05797748f470845ceeb08bc4.pdf)
+
+[视频回放]( https://www.bilibili.com/video/av67942201/)  
+      
+      讲师：戴资力（Apache Flink PMC）
 
 # S1 基础篇 （已完结）
 
