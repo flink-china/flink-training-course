@@ -18,6 +18,12 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
 # S3 社区公开课课表（进行中）
 备注：S1 S2 基础篇+进阶篇本页下滑可见
 
+### 【极客挑战赛】3.3  如何利用 Flink 和深度学习模型实现垃圾图片分类（Apache Flink 极客特别场）
+
+    讲师：陈戊超（阿里巴巴技术专家)
+    
+[视频回放](https://www.bilibili.com/video/av64821415/) 
+
 ### 【运维篇】 3.1 Flink 反压/延时监控和调参控制
 [PPT](https://files.alicdn.com/tpsservice/39edc75090edabcaa4fb9639604a37c5.pdf)
 
@@ -31,12 +37,6 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
 [视频回放](https://www.bilibili.com/video/av63884396/) 
 
     讲师：孙梦瑶（美团点评研发工程师）
-    
-### 【极客挑战赛】3.3  如何利用 Flink 和深度学习模型实现垃圾图片分类（Apache Flink 极客特别场）
-
-    讲师：陈戊超（阿里巴巴技术专家)
-    
-[视频回放](https://www.bilibili.com/video/av64821415/) 
    
     
 ### 【进阶篇】3.4 Flink CEP 实战
