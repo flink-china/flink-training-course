@@ -1,23 +1,65 @@
 
-课程简介：本系列课程由 Apache Flink Community China 官方出品。旨在为具备一定大数据基础、对Apache Flink感兴趣的同学提供系统性的入门教程，课程路径为“基础篇（已完结）>>进阶篇（已完结）>>运维篇&实战篇（进行中）>>源码篇”，下拉本页面查看已完结课程。
+### 课程简介：
 
-### 「彩蛋」
-
-* 大数据领域顶级盛会 Flink Forward Asia 2019 精彩回看🔎
-https://url.cn/5tGC874
-
-* Apache Flink 中文邮件列表使用方式
-[视频](https://www.bilibili.com/video/av57076677/) 
-
-Flink中文学习网站地址：https://ververica.cn/developers/flink-training-course3/
-
-
-
-
+本系列课程由 Apache Flink Community China 官方出品。旨在为具备一定大数据基础、对 Apache Flink 感兴趣的同学提供系统性的入门教程，课程分为 基础篇、进阶篇、运维篇、实时数仓篇等，持续更新。
 
 # S3 社区公开课课表（进行中）
 
 < 备注：S1 S2 基础篇+进阶篇本页下滑可见 >
+
+### Flink中文学习网站
+
+地址：https://ververica.cn/developers/flink-training-course3/
+
+
+### 即将直播：
+
+###  3.31 Flink 1.11 – 双 RM 带你抢先看
+   讲师：王治江（淘江）（Flink 1.11 Release Manager，阿里巴巴高级技术专家）
+   直播：5月26日 20:00-21:00 （UTC+8）
+   备注：视频、PPT待直播后更新 
+   
+   
+### 3.31【社区成长篇】Flink Contributor 速成指南
+    讲师：伍翀（云邪）（Apache Flink PMC，阿里巴巴技术专家）
+    直播：5月26日 20:00-21:00 （UTC+8）
+    备注：视频、PPT待直播后更新 
+
+### 3.32 Flink 1.11 – 双 RM 带你抢先看
+     讲师：王治江（淘江）（Flink 1.11 Release Manager，阿里巴巴高级技术专家）
+     直播：5月28日 20:00-21:00 （UTC+8）
+     备注：视频、PPT待直播后更新 
+
+### 3.33【社区成长篇】Contributor 之路：Flink Improvement Proposal 规范与流程
+    讲师：秦江杰（Apache Flink PMC，阿里巴巴高级技术专家）
+    直播：6月4日 20:00-21:00 （UTC+8）
+    备注：视频、PPT待直播后更新 
+
+
+### 计划直播：
+
+
+### 【实时数仓篇】从零到一搭建实时数仓
+    讲师：张荣（蓉荣）（阿里巴巴产品专家）
+     直播：时间待定 20:00-21:00 （UTC+8）
+     备注：视频、PPT待直播后更新 
+
+### 【实时数仓篇】构建你的流批一体数仓：Flink file system connector 实践
+    直播：时间待定  20:00-21:00 （UTC+8）
+    备注：视频、PPT待直播后更新 
+
+### 【实时数仓篇】构建你的流批一体数仓：Flink on Hive 流批一体实践
+    直播：时间待定  20:00-21:00 （UTC+8）
+    备注：视频、PPT待直播后更新 
+
+### 【实时数仓篇】利用 Flink 更高效的实现代码优化
+    讲师：程硕（阿里巴巴开发工程师）
+    直播：时间待定  20:00-21:00 （UTC+8）
+    备注：视频、PPT待直播后更新 
+
+
+——————————————————————##直播回放##———————————————————————
+
 
 ### 【极客挑战赛】 如何利用 Flink 和深度学习模型实现垃圾图片分类（Apache Flink 极客特别场）
 
@@ -280,48 +322,6 @@ Flink中文学习网站地址：https://ververica.cn/developers/flink-training-c
       讲师：唐云（Apache Flink Contributor，阿里巴巴高级开发工程师)
       
     
-###  3.31 Flink 1.11 – 双 RM 带你抢先看
-   讲师：王治江（淘江）（Flink 1.11 Release Manager，阿里巴巴高级技术专家）
-   直播：5月26日 20:00-21:00 （UTC+8）
-   备注：视频、PPT待直播后更新 
-   
-   
-### 3.31【社区成长篇】Flink Contributor 速成指南
-    讲师：伍翀（云邪）（Apache Flink PMC，阿里巴巴技术专家）
-    直播：5月26日 20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
-
-### 3.32 Flink 1.11 – 双 RM 带你抢先看
-     讲师：王治江（淘江）（Flink 1.11 Release Manager，阿里巴巴高级技术专家）
-     直播：5月28日 20:00-21:00 （UTC+8）
-     备注：视频、PPT待直播后更新 
-
-### 3.33【社区成长篇】Contributor 之路：Flink Improvement Proposal 规范与流程
-    讲师：秦江杰（Apache Flink PMC，阿里巴巴高级技术专家）
-    直播：6月4日 20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
-
-### Coming soon
-
-
-### 【实时数仓篇】从零到一搭建实时数仓
-    讲师：张荣（蓉荣）（阿里巴巴产品专家）
-     直播：时间待定 20:00-21:00 （UTC+8）
-     备注：视频、PPT待直播后更新 
-
-### 【实时数仓篇】构建你的流批一体数仓：Flink file system connector 实践
-    直播：时间待定  20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
-
-### 【实时数仓篇】构建你的流批一体数仓：Flink on Hive 流批一体实践
-    直播：时间待定  20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
-
-### 【实时数仓篇】利用 Flink 更高效的实现代码优化
-    讲师：程硕（阿里巴巴开发工程师）
-    直播：时间待定  20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
-
 # S2 进阶篇（已完结）
 备注：S1基础篇本页下滑可见
 
