@@ -18,12 +18,7 @@
     直播：5月26日 20:00-21:00 （UTC+8）
     备注：视频、PPT待直播后更新 
 
-### 3.32 Flink 1.11 – 双 RM 带你抢先看
-     讲师：王治江（淘江）（Flink 1.11 Release Manager，阿里巴巴高级技术专家）
-     直播：5月28日 20:00-21:00 （UTC+8）
-     备注：视频、PPT待直播后更新 
-
-### 3.33【社区成长篇】Contributor 之路：Flink Improvement Proposal 规范与流程
+### 3.32【社区成长篇】Contributor 之路：Flink Improvement Proposal 规范与流程
     讲师：秦江杰（Apache Flink PMC，阿里巴巴高级技术专家）
     直播：6月4日 20:00-21:00 （UTC+8）
     备注：视频、PPT待直播后更新 
