@@ -11,15 +11,6 @@
 #
 ### 即将直播
 
-   
-   
-### 3.31【社区成长篇】Flink Contributor 速成指南
-
- [PPT](https://files.alicdn.com/tpsservice/c3e3cb76d1305a619c779c0f923b2608.pdf)
-
- [视频回放]( https://www.bilibili.com/video/BV17f4y127qd)  
-      
-      讲师：伍翀（云邪）（Apache Flink PMC，阿里巴巴技术专家）
     
 
 ### 3.32【社区成长篇】Contributor 之路：Flink Improvement Proposal 规范与流程
@@ -179,6 +170,13 @@
     讲师：付典（Apache Flink Committer，阿里巴巴技术专家）
    
    
+### 3.【社区成长篇】Flink Contributor 速成指南
+
+ [PPT](https://files.alicdn.com/tpsservice/c3e3cb76d1305a619c779c0f923b2608.pdf)
+
+ [视频回放]( https://www.bilibili.com/video/BV17f4y127qd)  
+      
+      讲师：伍翀（云邪）（Apache Flink PMC，阿里巴巴技术专家）
  
 ————————————————————————————————————————————————————————— 
 
