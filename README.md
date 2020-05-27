@@ -14,9 +14,13 @@
    
    
 ### 3.31【社区成长篇】Flink Contributor 速成指南
-    讲师：伍翀（云邪）（Apache Flink PMC，阿里巴巴技术专家）
-    直播：5月26日 20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
+
+ [PPT](https://files.alicdn.com/tpsservice/c3e3cb76d1305a619c779c0f923b2608.pdf)
+
+ [视频回放]( https://www.bilibili.com/video/BV17f4y127qd)  
+      
+      讲师：伍翀（云邪）（Apache Flink PMC，阿里巴巴技术专家）
+    
 
 ### 3.32【社区成长篇】Contributor 之路：Flink Improvement Proposal 规范与流程
     讲师：秦江杰（Apache Flink PMC，阿里巴巴高级技术专家）
