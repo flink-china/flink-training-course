@@ -28,7 +28,7 @@
     直播：7月2日 20:00-21:00 （UTC+8）
     备注：视频、PPT待直播后更新 
     
-### 【技术生态篇】Flink jdbc
+### 【技术生态篇】Flink JDBC Connector
     讲师：徐榜江（Apache Flink Contributor，阿里巴巴高级开发工程师）
     直播：7月23日 20:00-21:00 （UTC+8）
     备注：视频、PPT待直播后更新 
