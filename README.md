@@ -14,9 +14,13 @@
     
 
 ### 3.32【社区成长篇】Contributor 之路：Flink Improvement Proposal 规范与流程
-    讲师：秦江杰（Apache Flink PMC，阿里巴巴高级技术专家）
-    直播：6月4日 20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
+   
+     [PPT](https://files.alicdn.com/tpsservice/7d4c3986bf9251ac538d197857507f03.pdf)
+
+      [视频回放]( https://www.bilibili.com/video/BV1sz4y197Wt/)
+
+       讲师：秦江杰（Apache Flink PMC，阿里巴巴高级技术专家）
+   
 
 ### 【技术生态篇】最佳实践：Flink 流式导入 HBase
     讲师：胡争（Apache HBase PMC，阿里巴巴技术专家）
