@@ -15,9 +15,9 @@
 
 ### 3.32【社区成长篇】Contributor 之路：Flink Improvement Proposal 规范与流程
    
-        [PPT](https://files.alicdn.com/tpsservice/7d4c3986bf9251ac538d197857507f03.pdf)
+   [PPT](https://files.alicdn.com/tpsservice/7d4c3986bf9251ac538d197857507f03.pdf)
 
-        [视频回放]( https://www.bilibili.com/video/BV1sz4y197Wt/)
+   [视频回放]( https://www.bilibili.com/video/BV1sz4y197Wt/)
 
          讲师：秦江杰（Apache Flink PMC，阿里巴巴高级技术专家）
    
