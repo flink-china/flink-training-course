@@ -12,11 +12,6 @@
 ### 即将直播
 
    
-
-### 【技术生态篇】最佳实践：Flink 流式导入 HBase
-    讲师：胡争（Apache HBase PMC，阿里巴巴技术专家）
-    直播：6月11日 20:00-21:00 （UTC+8）
-    备注：视频、PPT待直播后更新 
     
 ### 【实时数仓篇】利用 Flink 进行实时作业运行监控
     讲师：李明（美团点评）
@@ -157,6 +152,15 @@
  [视频回放](https://www.bilibili.com/video/BV1YQ4y1A7VN/)
 
     讲师：申毅杰（Apache Pulsar/Flink/Spark contributor，StreamNative 高级工程师）
+    
+### 【生态篇】4. 最佳实践：Flink 流式导入 HBase
+
+ [PPT](https://files.alicdn.com/tpsservice/88c2b4e8e45bbf3aab11bb3c52fc59f8.pdf)
+
+ [视频回放](https://www.bilibili.com/video/BV1gk4y1z7EQ/)
+ 
+    讲师：胡争（Apache HBase PMC，阿里巴巴技术专家）
+
     
     
 ——————————————————————————————————————————————————————— 
