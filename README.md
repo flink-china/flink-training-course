@@ -169,7 +169,7 @@
 ### 【社区成长篇】1. 30分钟教你如何入门 – Apache Flink 最全知识图谱详解
     讲师：程鹤群（军长）（Apache Flink Committer，阿里巴巴技术专家）
     
-   [知识图谱](https://ververica.cn/developers/special-issue/）
+   [知识图谱](https://ververica.cn/developers/special-issue/)
    
    [PPT](https://files.alicdn.com/tpsservice/180ded6abcab5207f87ce34faa78cf1c.pdf)
 
